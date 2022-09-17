@@ -1,17 +1,8 @@
-# graduation_project_draft
+
 
 A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# health_insurance_company" 
+lab-> user_name: hr@gmail.com / Password : password
+Doctor-> user_name: ff@gmail.com / Password : password
+pharmacy -> user_name: lordbshr@gmail.com / Password : 12345678
+customer -> user_name: ali@gmail.com / Password : password
+Admin ->  user_name: admin@gmail.com / Password : 12345678
