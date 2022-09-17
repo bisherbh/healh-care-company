@@ -1,6 +1,6 @@
 
 
-A new Flutter application.
+A new Flutter application. <br/>
 lab-> user_name: hr@gmail.com / Password : password <br/>
 Doctor-> user_name: ff@gmail.com / Password : password  <br/>
 pharmacy -> user_name: lordbshr@gmail.com / Password : 12345678  <br/>
